@@ -1,6 +1,6 @@
 # gem_app
 
-A new Flutter project.
+A new Flutter project With Google Gemini AI
 
 ## Getting Started
 
